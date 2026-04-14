@@ -36,7 +36,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Keshavsharma-code/run">
-        <img src="assets/run.png" width="100%" alt="Run" />
+        <img src="assets/run.jpg" width="100%" alt="Run" />
       </a>
       <br>
       <b>Run</b><br>
