@@ -39,7 +39,7 @@
 ### 🎙️ Run
 *Voice-controlled computer automation that asks before acting.*
 
-[![Run](assets/run.jpg)](https://github.com/Keshavsharma-code/run)
+[![Run](assets/run.png)](https://github.com/Keshavsharma-code/run)
 
 > Local, private, and deliberate computer control. Say it. It runs. Built for speed and privacy.
 
