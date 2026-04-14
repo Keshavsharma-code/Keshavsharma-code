@@ -2,14 +2,14 @@
 
 # 0xKeshav / Keshav Sharma
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Independent+Builder;High+Performance+Computing;CUDA+%26+Python+Enthusiast;Building+the+AI+Empire" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3131&center=true&vCenter=true&width=500&lines=Cinematic+3D+Memory;Autonomous+Coding+Agents;Voice+Controlled+Automation;Building+the+AI+Empire" alt="Typing SVG" />
 
 ---
 
 ## 🚀 About Me
-- 🚀 **18-year-old independent builder** on a gap year.
-- 🧠 Currently **deep-diving into Python and CUDA kernels**.
-- 🛠️ Building **scalable AI agents** and DevOps platforms.
+- 🛠️ Building **the first cinematic 3D memory layer** for the AI Era.
+- 🧠 Architecting **autonomous local coding agents** that dream and optimize.
+- 🎙️ Designing **deliberate voice-controlled computer automation**.
 - 🤝 Open to collaborating on **low-level optimization** and AI infrastructure.
 
 ---
@@ -19,18 +19,28 @@
 <table border="0">
   <tr>
     <td align="center">
-      <a href="https://github.com/Keshavsharma-code/DeepSleep-beta">
-        <img src="https://raw.githubusercontent.com/Keshavsharma-code/Keshavsharma-code/main/assets/deepsleep_banner.png" width="100%" alt="DeepSleep-beta" />
+      <a href="https://github.com/Keshavsharma-code/deepsleep-hub">
+        <img src="assets/deepsleep_hub.png" width="100%" alt="DeepSleep Hub" />
       </a>
       <br>
-      <b>DeepSleep-beta</b>
+      <b>DeepSleep Hub</b><br>
+      <i>Cinematic 3D Memory Layer</i>
     </td>
     <td align="center">
-      <a href="https://github.com/Keshavsharma-code/mac-uda">
-        <img src="https://raw.githubusercontent.com/Keshavsharma-code/mac-uda/main/assets/macuda_banner_alt.png" width="100%" alt="MAC-UDA" />
+      <a href="https://github.com/Keshavsharma-code/DeepSleep-beta">
+        <img src="assets/deepsleep_banner.png" width="100%" alt="DeepSleep-beta" />
       </a>
       <br>
-      <b>MAC-UDA</b>
+      <b>DeepSleep-beta</b><br>
+      <i>Autonomous Local Agent</i>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Keshavsharma-code/run">
+        <img src="assets/run.png" width="100%" alt="Run" />
+      </a>
+      <br>
+      <b>Run</b><br>
+      <i>Voice Computer Control</i>
     </td>
   </tr>
 </table>
