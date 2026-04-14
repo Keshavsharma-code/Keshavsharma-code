@@ -16,34 +16,34 @@
 
 ## 🌟 Main Works
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Keshavsharma-code/deepsleep-hub">
-        <img src="assets/deepsleep_hub.png" width="100%" alt="DeepSleep Hub" />
-      </a>
-      <br>
-      <b>DeepSleep Hub</b><br>
-      <i>Cinematic 3D Memory Layer</i>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Keshavsharma-code/DeepSleep-beta">
-        <img src="assets/deepsleep_banner.png" width="100%" alt="DeepSleep-beta" />
-      </a>
-      <br>
-      <b>DeepSleep-beta</b><br>
-      <i>Autonomous Local Agent</i>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Keshavsharma-code/run">
-        <img src="assets/run.jpg" width="100%" alt="Run" />
-      </a>
-      <br>
-      <b>Run</b><br>
-      <i>Voice Computer Control</i>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🧠 DeepSleep Hub
+*The first cinematic 3D memory layer for the AI Era.*
+
+[![DeepSleep Hub](assets/deepsleep_hub.png)](https://github.com/Keshavsharma-code/deepsleep-hub)
+
+> Unify ChatGPT, Claude, and Gemini into a pulsing second brain with real-time semantic extraction and 3D visualization.
+
+---
+
+### 🐣 DeepSleep-beta
+*Autonomous coding agents that dream while you sleep.*
+
+[![DeepSleep-beta](assets/deepsleep_banner.png)](https://github.com/Keshavsharma-code/DeepSleep-beta)
+
+> A 100% local, 100% free autonomous agent that optimizes your code sitting idle, using a 3-layer memory architecture.
+
+---
+
+### 🎙️ Run
+*Voice-controlled computer automation that asks before acting.*
+
+[![Run](assets/run.jpg)](https://github.com/Keshavsharma-code/run)
+
+> Local, private, and deliberate computer control. Say it. It runs. Built for speed and privacy.
+
+</div>
 
 ---
 
