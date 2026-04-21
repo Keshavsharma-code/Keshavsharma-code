@@ -1,6 +1,6 @@
 <div align="center">
 
-# 0xKeshav / Keshav Sharma
+#  Keshav Sharma
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3131&center=true&vCenter=true&width=500&lines=Cinematic+3D+Memory;Autonomous+Coding+Agents;Voice+Controlled+Automation;Building+the+AI+Empire" alt="Typing SVG" />
 
